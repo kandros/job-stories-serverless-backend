@@ -4,4 +4,10 @@
   "description": "Serverless CRUD service exposing a REST HTTP interface",
   "author": "",
   "license": "MIT",
+  "devDependencies": {
+    "@types/aws-sdk": "^2.7.0",
+    "@types/node": "^7.0.13",
+    "serverless-plugin-typescript": "^0.1.2",
+    "tslint": "^5.1.0"
+  }
 }
